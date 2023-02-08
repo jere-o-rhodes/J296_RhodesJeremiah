@@ -41,6 +41,7 @@ __this is also bold__
   !['Peonies bouquet','Pink peonies bouquet in a case'](https://dy1yydbfzm05w.cloudfront.net/media/catalog/product/cache/39b52c4cabb46819553175347e38b212/f/a/famingo_peony_vase.jpg)
   
   *image from a file already in your repo*
+  
   !['Peonies bouquet','Pink peonies bouquet in a case'] (/peony.jpg)
   
  
