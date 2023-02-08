@@ -42,7 +42,7 @@ __this is also bold__
   
   *image from a file already in your repo*
   
-  !['Peonies bouquet','Pink peonies bouquet in a case'] (/famingo_peony_vase.jpg)
+  !['Peonies bouquet','Pink peonies bouquet in a case'](/famingo_peony_vase.jpg)
   
  
  *This is a blockquote*
