@@ -1,6 +1,6 @@
 # Jeremiah O. Rhodes
 ## Jeremiah O. Rhodes is a writer and multimedia journalist
-!['headshot'] (/headshot_02.jpg)
+!['headshot'] (/Headshot_02.jpg)
 ## Skills
 1. Writing 
 2. Coding in R
