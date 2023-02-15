@@ -8,6 +8,6 @@
 
 | Workplace     | Role/Duties                                                                                            |
 |---------------|--------------------------------------------------------------------------------------------------------|
-| Texas Tribune | -Edit podcast episodes for Texas Tribune podcast -Produce audio and visual stories for the publication |
-| NPR Music     | -Direct, film and edit NPR Tiny Desk Concerts -Direct, film and edit a series for NPR's social media   |
-| Fresnoland    | -Pitch print stories for the publication  -Produce content for Fresnoland's social media               |
+| Texas Tribune | -Edit podcast episodes for Texas Tribune podcast <br> -Produce audio and visual stories for the publication |
+| NPR Music     | -Direct, film and edit NPR Tiny Desk Concerts <br> -Direct, film and edit a series for NPR's social media   |
+| Fresnoland    | -Pitch print stories for the publication  <br> -Produce content for Fresnoland's social media               |
